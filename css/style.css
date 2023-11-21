@@ -79,8 +79,8 @@ a {
     color: gray;
     border-radius: 50%;
     font-size: 13px;
-    bottom: 560px;
-    margin: 2px -3px;
+    bottom: 590px;
+    margin: 2px 1px;
 }
 .header-content nav ul li .link-item::before {
     border-width: 0 2px;
